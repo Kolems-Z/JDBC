@@ -23,6 +23,7 @@ public class play {
 
         //6、处理结果
         System.out.println(count);
+        System.out.println(count);
 
         //7、释放资源
         stmt.close();
